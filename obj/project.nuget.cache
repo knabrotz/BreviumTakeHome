@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4a3QBZan6kUep3pIbfLpxF/OBm49U7Wj1cOPTOvZi8hM019pTRDZ71k077vEJVh8JNDt76rFx050CoDk+0+Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keann\\Desktop\\Recruiting\\Brevium\\BreviumTakeHome\\BreviumTakeHome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keann\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

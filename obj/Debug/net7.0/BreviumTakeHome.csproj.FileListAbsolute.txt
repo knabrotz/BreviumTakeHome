@@ -1,0 +1,17 @@
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\bin\Debug\net7.0\BreviumTakeHome.exe
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\bin\Debug\net7.0\BreviumTakeHome.deps.json
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\bin\Debug\net7.0\BreviumTakeHome.runtimeconfig.json
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\bin\Debug\net7.0\BreviumTakeHome.dll
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\bin\Debug\net7.0\BreviumTakeHome.pdb
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\BreviumTakeHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\BreviumTakeHome.AssemblyInfoInputs.cache
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\BreviumTakeHome.AssemblyInfo.cs
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\BreviumTakeHome.csproj.CoreCompileInputs.cache
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\BreviumTakeHome.dll
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\refint\BreviumTakeHome.dll
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\BreviumTakeHome.pdb
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\BreviumTakeHome.genruntimeconfig.cache
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\ref\BreviumTakeHome.dll
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\BreviumTakeHome.csproj.AssemblyReference.cache
+C:\Users\keann\Desktop\Recruiting\Brevium\BreviumTakeHome\obj\Debug\net7.0\BreviumTakeHome.csproj.CopyComplete
